@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mtchstl and I am 2nd yr. college student.I don't know why I am here, but anyway... 
-- 👀 I’m interested in novel...
 - 🌱 I’m currently learning python.
-- ⚡ Fun fact: I can't imagine myself being an computer engineer. I don't know what happened and why I am here.
+
 
 
